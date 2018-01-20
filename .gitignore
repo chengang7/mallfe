@@ -19,7 +19,8 @@
 *.rar
 
 .DS_Store
-/node_moudles/
+/node_modules/
+npm-debug.log
 #存放编译好的文件
 /dist/
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
